@@ -24,7 +24,7 @@ git clone https://github.com/hyt315/companion-reflection.git
 
 Or [Download ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
 
-Place under your skills directory (e.g. `~/.workbuddy/skills/`):
+Place under your skills directory (e.g. `~/.claude/skills/`):
 
 ```
 companion-reflection/
@@ -105,7 +105,7 @@ git clone https://github.com/hyt315/companion-reflection.git
 
 或 [下载 ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
 
-将目录放入技能目录下（如 `~/.workbuddy/skills/`）：
+将目录放入技能目录下（如 `~/.claude/skills/`）：
 
 ```
 companion-reflection/
