@@ -18,11 +18,13 @@
 
 ### 📥 Download / Install
 
-```bash
-git clone https://github.com/hyt315/companion-reflection.git
-```
-
-Or [Download ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
+| Method | Command |
+|---|---|
+| **HTTPS** | `git clone https://github.com/hyt315/companion-reflection.git` |
+| **SSH** | `git clone git@github.com:hyt315/companion-reflection.git` |
+| **GitHub CLI** | `gh repo clone hyt315/companion-reflection` |
+| **ZIP** | [Download ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip) |
+| **Single file** | `curl -O https://raw.githubusercontent.com/hyt315/companion-reflection/main/SKILL.md` |
 
 Place under your skills directory (e.g. `~/.claude/skills/`):
 
@@ -99,11 +101,13 @@ This skill is a conversational companion tool, **not** psychotherapy. It does no
 
 ### 📥 下载 / 安装
 
-```bash
-git clone https://github.com/hyt315/companion-reflection.git
-```
-
-或 [下载 ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
+| 方式 | 命令 |
+|---|---|
+| **HTTPS** | `git clone https://github.com/hyt315/companion-reflection.git` |
+| **SSH** | `git clone git@github.com:hyt315/companion-reflection.git` |
+| **GitHub CLI** | `gh repo clone hyt315/companion-reflection` |
+| **ZIP** | [下载 ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip) |
+| **单文件** | `curl -O https://raw.githubusercontent.com/hyt315/companion-reflection/main/SKILL.md` |
 
 将目录放入技能目录下（如 `~/.claude/skills/`）：
 
