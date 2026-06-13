@@ -16,6 +16,29 @@
 
 ---
 
+### 📥 Download / Install
+
+```bash
+git clone https://github.com/hyt315/companion-reflection.git
+```
+
+Or [Download ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
+
+**WorkBuddy Skill** — place the directory under `~/.workbuddy/skills/`:
+
+```
+~/.workbuddy/skills/companion-reflection/
+├── SKILL.md
+├── README.md
+├── LICENSE
+├── SECURITY.md
+├── .gitignore
+└── references/
+    └── methods-background.md
+```
+
+---
+
 ### ✨ Core Response Modes
 
 | Emotional Signal | Core Technique | What It Sounds Like |
@@ -71,6 +94,29 @@ This skill is a conversational companion tool, **not** psychotherapy. It does no
 > 一个温暖、自然的情绪陪伴对话风格 — 不是说教机器，不是心理医生，只是一个会好好听你说话的对话伙伴。
 
 **Companion Reflection** 是一个 AI Agent 技能，将四种成熟的心理学调节框架翻译成日常对话语言。当用户流露焦虑、自责、纠缠过去的怨恨或空虚疲惫时，技能引导 AI 用温和的提问式反思回应 — 不给罐装鸡汤，不做诊断。
+
+---
+
+### 📥 下载 / 安装
+
+```bash
+git clone https://github.com/hyt315/companion-reflection.git
+```
+
+或 [下载 ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
+
+**WorkBuddy 技能安装** — 将目录放置于 `~/.workbuddy/skills/` 下：
+
+```
+~/.workbuddy/skills/companion-reflection/
+├── SKILL.md
+├── README.md
+├── LICENSE
+├── SECURITY.md
+├── .gitignore
+└── references/
+    └── methods-background.md
+```
 
 ---
 
