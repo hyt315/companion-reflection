@@ -24,10 +24,10 @@ git clone https://github.com/hyt315/companion-reflection.git
 
 Or [Download ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
 
-**WorkBuddy Skill** — place the directory under `~/.workbuddy/skills/`:
+Place under your skills directory (e.g. `~/.workbuddy/skills/`):
 
 ```
-~/.workbuddy/skills/companion-reflection/
+companion-reflection/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
@@ -105,10 +105,10 @@ git clone https://github.com/hyt315/companion-reflection.git
 
 或 [下载 ZIP](https://github.com/hyt315/companion-reflection/archive/refs/heads/main.zip)
 
-**WorkBuddy 技能安装** — 将目录放置于 `~/.workbuddy/skills/` 下：
+将目录放入技能目录下（如 `~/.workbuddy/skills/`）：
 
 ```
-~/.workbuddy/skills/companion-reflection/
+companion-reflection/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
