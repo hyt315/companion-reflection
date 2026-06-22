@@ -1,5 +1,32 @@
-# Security Policy
+# 安全策略 / Security Policy
 
-This project contains no executable code — it is a conversational skill definition and reference documentation for AI agents. There are no runtime dependencies, network services, or attack surfaces.
+## 项目性质说明
 
-If you discover a content issue (incorrect claim, harmful guidance, missing safety protocol), please open a discussion in the repository or contact the maintainer directly.
+本项目不包含可执行代码——它是一个 AI Agent 对话技能定义及参考文档。不存在运行时依赖、网络服务或传统意义上的攻击面。
+
+## 报告内容问题
+
+如果你发现以下类型的问题，请通过 GitHub Issue 报告：
+
+- **安全协议缺陷**：SKILL.md 中的危机识别与转介协议存在遗漏或不当之处（最高优先级）
+- **有害引导**：回应方式中可能造成伤害或误导的内容
+- **错误引用**：`references/methods-background.md` 中的学术引用或理论归属不准确
+- **不当表述**：任何违反行为准则的内容
+
+## 报告流程
+
+1. 在仓库中创建 Issue，使用 `type:security` 标签
+2. 清晰描述问题的位置、内容和潜在影响
+3. 如果涉及敏感内容，可以通过 Issue 简要描述后，将详情发送给维护者
+
+## 响应时间
+
+- 安全协议相关问题：尽快响应
+- 其他内容问题：一周内响应
+
+## 支持的版本
+
+| 版本 | 支持状态 |
+|------|----------|
+| 最新 main 分支 | ✅ 接受报告 |
+| 历史版本 | ❌ 不再维护 |

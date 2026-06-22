@@ -1,0 +1,35 @@
+name: Bug Report
+description: Report errors, inaccuracies, or problematic content in the skill
+title: "[BUG] "
+labels: ["type:bug"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Problem Category
+      description: What type of issue did you find?
+      options:
+        - Safety protocol flaw
+        - Inaccurate psychological/philosophical reference
+        - Inappropriate response guidance
+        - SKILL.md technical issue
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue in detail. If it involves a specific response mode, quote the problematic text.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should the correct content or behavior be?
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information, screenshots, or references.

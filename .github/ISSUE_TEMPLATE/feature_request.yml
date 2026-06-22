@@ -1,0 +1,36 @@
+name: Feature Request
+description: Suggest new response scenarios, improvements, or additional content
+title: "[FEATURE] "
+labels: ["type:enhancement"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggestion Category
+      description: What type of improvement are you suggesting?
+      options:
+        - New response scenario (e.g., anger, grief, loneliness)
+        - Improve existing response mode
+        - Add theoretical reference
+        - Translation improvement
+        - New language support
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your suggestion in detail.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why would this be valuable? If suggesting a new response mode, what psychological or philosophical framework supports it?
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example Dialogue
+      description: If applicable, provide an example of how this response mode might sound in conversation.
