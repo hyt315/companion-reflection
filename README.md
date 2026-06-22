@@ -7,19 +7,19 @@
 **A warm, natural conversational companion for emotional moments — not a therapist, not a chatbot script**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.1.1-green.svg)]()
+[![Version](https://img.shields.io/badge/version-1.1.2-green.svg)]()
 [![SKILL.md](https://img.shields.io/badge/Agent%20Skill-SKILL.md-green)](SKILL.md)
 [![Platform](https://img.shields.io/badge/Platform-Claude%20Code-orange)]()
 [![Platform](https://img.shields.io/badge/Platform-Cursor-brightgreen)]()
 [![GitHub Stars](https://img.shields.io/github/stars/hyt315/companion-reflection?style=social)](https://github.com/hyt315/companion-reflection/stargazers)
 
-[English](#user-content-english) | [中文](#user-content-中文)
+[English](#english) | [中文](#中文)
 
 </div>
 
 ---
 
-<a name="中文"></a>
+## 中文
 
 ## 📖 这是什么？
 
@@ -159,7 +159,7 @@ companion-reflection/
 
 ---
 
-<a name="english"></a>
+## English
 
 ## 📖 What is this?
 
